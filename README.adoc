@@ -1,8 +1,8 @@
 == Build Status
 
-image::http://jenkins.myz.info/job/gs-spring-boot/badge/icon[Build Status]
+image::http://jenkins.myz.info/buildStatus/icon?job=gs-spring-boot&build=4[Build Status]
 
-(Build status from my own Jenkins instance : http://jenkins.myz.info/
+Build status from my own Jenkins instance : http://jenkins.myz.info/
 
 == See it in action
 
