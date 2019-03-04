@@ -17,7 +17,7 @@ public class HelloController {
     }
 
     @RequestMapping("/digital")
-    public String index() {
+    public String whereAreThou() {
         return "Pas encore !!";
     }
 
