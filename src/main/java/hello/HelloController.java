@@ -16,6 +16,11 @@ public class HelloController {
         return "Greetings from Spring Boot!";
     }
 
+    @RequestMapping("/digital")
+    public String index() {
+        return "Pas encore !!";
+    }
+
     @GetMapping("/hello")
     public Collection<String> sayHello() {
         return IntStream.range(0, 10)
