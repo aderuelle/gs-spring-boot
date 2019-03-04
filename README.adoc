@@ -2,7 +2,7 @@
 
 image::http://jenkins.myz.info/job/gs-spring-boot/badge/icon[Build Status]
 
-(Build status from my own Jenkins instance)
+(Build status from my own Jenkins instance : http://jenkins.myz.info/
 
 == See it in action
 
