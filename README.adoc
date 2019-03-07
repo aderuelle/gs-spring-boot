@@ -1,8 +1,8 @@
 == Build Status
 
-image::http://jenkins.myz.info/buildStatus/icon?job=gs-spring-boot&build=4[Build Status]
+image::http://jenk.hopto.org/buildStatus/icon?job=gs-spring-boot[Build Status]
 
-Build status from my own Jenkins instance : http://jenkins.myz.info/
+Build status from my own Jenkins instance : http://jenk.hopto.org/
 
 == See it in action
 
