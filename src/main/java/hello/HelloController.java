@@ -16,7 +16,7 @@ public class HelloController {
         return "Greetings from Spring Boot!";
     }
 
-    @RequestMapping("/digital")
+    @RequestMapping("/ready")
     public String whereAreThou() {
         return "Pas encore !!";
     }
